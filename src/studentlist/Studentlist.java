@@ -16,7 +16,7 @@ public class Studentlist
     {
         Student[] list = new Student[3];//array of objects 
         Student s1 = new Student(); //object s1 for student class
-        s1.setName("siva");
+        s1.setName("gill");
         s1.setAge(25);
         Student s2 = new Student(); //object s1 for student class
         s2.setName("sivaas");
